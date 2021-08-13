@@ -1,3 +1,4 @@
 rootProject.name = "Simple_Java_Library"
 include ':app'
 include ':simple_java_library'
+include ':myapplication'

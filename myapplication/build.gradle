@@ -7,8 +7,8 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.android.prime.simple_java_library"
-        minSdkVersion 21
+        applicationId "com.android.prime.myapplication"
+        minSdkVersion 16
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"

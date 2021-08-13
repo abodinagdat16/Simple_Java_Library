@@ -1,4 +1,4 @@
-package com.android.prime.simple_java_library;
+package com.android.prime.myapplication;
 
 import org.junit.Test;
 

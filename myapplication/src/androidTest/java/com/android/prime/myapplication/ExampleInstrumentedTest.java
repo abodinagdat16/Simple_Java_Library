@@ -1,4 +1,4 @@
-package com.android.prime.simple_java_library;
+package com.android.prime.myapplication;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -20,6 +20,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals( "com.android.prime.simple_java_library", appContext.getPackageName() );
+        assertEquals( "com.android.prime.myapplication", appContext.getPackageName() );
     }
 }
