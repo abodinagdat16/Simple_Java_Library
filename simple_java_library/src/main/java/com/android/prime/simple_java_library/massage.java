@@ -6,7 +6,7 @@ import android.widget.Toast;
 
 public class massage {
     public static void show(Context c, String msg){
-        Toast.makeText( c.getApplicationContext(), msg, Toast.LENGTH_SHORT ).show();
+        Toast.makeText( c.getApplicationContext() , msg, Toast.LENGTH_SHORT ).show();
     }
 
 
