@@ -20,6 +20,6 @@ Step 2. Add the dependency
 
 	dependencies {
 
-	        implementation 'com.github.abodinagdat16:Simple_Java_Library:Tag'
+	        implementation 'com.github.abodinagdat16:Simple_Java_Library:1.1'
 
 	}
