@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId "com.android.prime.myapplication"
-        minSdkVersion 16
+        minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
@@ -32,6 +32,7 @@ dependencies {
 
     implementation 'com.android.support:appcompat-v7:28.0.0'
     implementation 'com.android.support.constraint:constraint-layout:2.0.4'
+    implementation 'com.github.abodinagdat16:Simple_Java_Library:1.0'
     implementation project(path: ':simple_java_library')
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
