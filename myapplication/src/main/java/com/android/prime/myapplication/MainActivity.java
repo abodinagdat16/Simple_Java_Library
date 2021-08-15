@@ -1,10 +1,10 @@
 package com.android.prime.myapplication;
 
-import android.app.Dialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 
-import com.android.prime.simple_java_library.Ios_Dialog;
+import com.android.prime.simple_java_library.Exit_Ios_Dialog;
 import com.android.prime.simple_java_library.massage;
 
 public class MainActivity extends AppCompatActivity {
@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView( R.layout.activity_main );
         massage.show( getApplicationContext(),"hello " );
 
-        Ios_Dialog.NewIosDialogShow(MainActivity.this,"hello","hi");
+        Exit_Ios_Dialog.NewIosDialogShow( MainActivity.this, "تنويه", "هل تريد خروج من تطبيق","نعم","لا" );
 
     }
 }
