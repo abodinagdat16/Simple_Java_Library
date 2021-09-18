@@ -1,6 +1,6 @@
 # Simple_Java_Library
 
-https://raw.githubusercontent.com/abodinagdat16/Simple_Java_Library/master/io1.PNG
+<img src="io1.PNG" />
 
 https://raw.githubusercontent.com/abodinagdat16/Simple_Java_Library/master/io2.PNG
 
