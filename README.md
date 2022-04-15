@@ -27,6 +27,7 @@
 
 
 
+[![Join our Discord server!](https://invidget.switchblade.xyz/aA6y2TBZzG)](https://discord.gg/aA6y2TBZzG)
 
 
 
